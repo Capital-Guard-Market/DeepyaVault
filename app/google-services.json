@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204460093473",
+    "project_id": "deepya-vault",
+    "storage_bucket": "deepya-vault.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204460093473:android:0b217b6f4d3e386ef7b360",
+        "android_client_info": {
+          "package_name": "com.deepya.vault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD2vfQKF3umLWiVHqqj0QKZXNHmv9ji2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
